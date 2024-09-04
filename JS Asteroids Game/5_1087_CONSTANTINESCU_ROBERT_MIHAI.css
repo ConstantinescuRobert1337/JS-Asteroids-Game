@@ -1,0 +1,21 @@
+#startButton {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 20px;
+  padding: 10px;
+  background-color: red;
+  color: white;
+}
+
+#resetButton {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 20px;
+  padding: 10px;
+  background-color: red;
+  color: white;
+}
